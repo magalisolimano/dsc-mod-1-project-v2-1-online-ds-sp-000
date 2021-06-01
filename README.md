@@ -41,5 +41,5 @@ Further analysis should examine the breakdown between domestic and international
 
 
 ## More information
-See the full analysis in the [Jupyter Notebook](./Project1submission_MagaliSolimano_6_1_2021.ipynb) or review this [presentation](./presentation.pdf).
+See the full analysis in the [Jupyter Notebook](./Project1Submission_MagaliSolimano_6_1_2021.ipynb) or review this [presentation](./presentation.pdf).
 For additional information, please contact Magali Solimano at [magali.solimano@gmail.com](mailto:magali.solimano@gmail.com)
