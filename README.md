@@ -28,6 +28,9 @@ The movie industry is a profitable, but challenging business. Forty percent of m
 
 ![Return on investment](./images/ROI_trend.jpg)
 
+Top grossing movies are profitable. But, the top grossing movies do not necessarily have the highest ROI.
+![Revenue and ROI](./images/revenue_and_roi.jpg)
+
 Cost control is important, but studios must typically spend a minimum of $30M-$35M to produce a movie with up to 400% ROI. Unprofitable films have lower production budgets.
 
 ![Production budget](./images/budget.jpg)
