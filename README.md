@@ -19,7 +19,7 @@ This project explored 11 large, movie-related data sets from four sources: Box O
 
 ## Methods
 
-This project applies descriptive data analysis, including trends of key metrics over time. This provides an insightful overview of the evolution of the performance of the movie industry.
+This project applies exploratory data analysis and examines trends of key metrics over time. This provides an insightful overview of the evolution of the performance of the movie industry.
 
 ![ROI, revenue, and budget](./images/time_series.jpg)
 
