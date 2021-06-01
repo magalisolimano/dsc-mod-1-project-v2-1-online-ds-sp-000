@@ -1,4 +1,4 @@
-![austin animal center](./images/moviereel.jpg)
+![Module 1 Final Project](./images/moviereel.jpg)
 
 # Module 1 Final Project
 
@@ -8,24 +8,45 @@
 
 ## Overview
 
-This Module 1 project examines the movie industry for a client that is interested in entering the business. Descriptive data analysis of gross revenue, production costs, return on investment, run times, popular genres, and seasonality shows that the movie industry is profitable, but there is large variation in performance across films and production studios. The client can use this analysis to understand the key trends in the movie industry, identify its main competitors, and determine the types of films they will be creating. This analysis also serves as a baseline for deeper dives on the movie industry.
+The Module 1 project examines the movie industry for a client that is interested in entering the business. Descriptive data analysis of gross revenue, production costs, return on investment, run times, popular genres, and seasonality shows that the movie industry is profitable, but there is large variation in performance across films and production studios. The client can use this analysis to understand the key trends in the movie industry, identify its main competitors, and determine the types of films they will be creating. This analysis also serves as a baseline for deeper dives on the movie industry.
 
 ## Business Problem 
-The client wants to create a new movie studio, but does not 
+The client wants to create a new movie studio and, as a potentially new entrant, is seeking information about the movie industry to inform its business decisions. 
 
 ## Data
 
 This project explored 11 large, movie-related data sets from four sources: Box Office Mojo, IMDB, Rotten Tomatoes, TheMovieDB.org. The data files provide a wide range of information since atleast the year 2001 about individual movies' box office revenue, budgets, genres, as well as production studios and associated casts and crew members. Several data files contain information that complements the others, while other data was repetitive. 
 
+## Methods
+
+This project applies descriptive data analysis, including trends of key metrics over time. This provides an insightful overview of the evolution of the performance of the movide industry.
+
+![ROI, revenue, and budget](./images/time_series.jpg)
+
+## Results
+The movie industry is a profitable, but challenging business. Forty percent of movies generate healthy return on investment exceeding 100%, while one-fourth of movies generate thinner returns. Positive returns are not guaranteed---one-third of movies are not profitable.
+
+![Return on investment](./images/ROI_trend.jpg)
+
+Cost control is important, but studios must spend a median of $30M-$35M to produce a movie with up to 400% ROI. Unprofitable films have lower production budgets.
+
+![Production budget](./images/budget.jpg)
+
+Six studios dominate the film industry, accounting for 70% of market share of revenues, and would direct competitors.
+
+![Studios](./images/studios.jpg)
+
+## Conclusions
+Movie industry profitability has increased over the last decade, but there are large outliers and only 75% of films are profitable. Blockbuster box office performance does not necessariy equate to higher return on investment, suggesting that cost control is important. Six studios dominate the film industry and would be direct competitors.
 
 
+## Next Steps
+Further analysis should examine the breakdown between domestic and international revenue generation, as well as the production crew and casts.
 
 
-
-
-
-
-
+## More information
+See the full analysis in the [Jupyter Notebook](./animal-shelter-needs-analysis.ipynb) or review this [presentation](./Animal_Shelter_Needs_Presentation.pdf).
+For additional information, please contact Magali Solimano at [magali.solimano@gmail.com](mailto:magali.solimano@gmail.com)
 
 
 
