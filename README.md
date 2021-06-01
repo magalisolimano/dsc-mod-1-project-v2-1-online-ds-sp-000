@@ -1,3 +1,35 @@
+![austin animal center](./images/moviereel.jpg)
+
+# Module 1 Final Project
+
+**Author**: Magali Solimano (mailto: magali.solimano@gmail.com)
+
+**Date**: June 1, 2021
+
+## Overview
+
+This Module 1 project examines the movie industry for a client that is interested in entering the business. Descriptive data analysis of gross revenue, production costs, return on investment, run times, popular genres, and seasonality shows that the movie industry is profitable, but there is large variation in performance across films and production studios. The client can use this analysis to understand the key trends in the movie industry, identify its main competitors, and determine the types of films they will be creating. This analysis also serves as a baseline for deeper dives on the movie industry.
+
+## Business Problem 
+The client wants to create a new movie studio, but does not 
+
+## Data
+
+This project explored 11 large, movie-related data sets from four sources: Box Office Mojo, IMDB, Rotten Tomatoes, TheMovieDB.org. The data files provide a wide range of information since atleast the year 2001 about individual movies' box office revenue, budgets, genres, as well as production studios and associated casts and crew members. Several data files contain information that complements the others, while other data was repetitive. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Module 1 Final Project
 
 ## Introduction
